@@ -1,0 +1,28 @@
+body{
+  background-color: bisque;
+}
+
+.text{
+  color: white;
+  font-size: 24px;
+  font-weight: 800;
+}
+
+#div1{
+  width: 200px;
+  height: 200px;
+  background-color: blueviolet;
+}
+#div2{
+  width: 300px;
+  height: 200px;
+  background-color: orange;
+}
+#div3{
+  width: 500px;
+  height: 200px;
+  background-color: green;
+  border: 5px solid black;
+}
+
+
